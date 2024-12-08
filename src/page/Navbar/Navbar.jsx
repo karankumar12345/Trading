@@ -20,7 +20,7 @@ const Navbar = () => {
         <Sheet>
   <SheetTrigger>
     <Button variant="ghost" size="icon" className="rounded-full h-11 w-11">
-      <DragHandleHorizontalIcon className="h-7 w-7" />
+      <DragHandleHorizontalIcon className="h-10 w-10" />
     </Button>
   </SheetTrigger>
   <SheetContent className="w-72 border-r-0 flex flex-col justify-center " side="left">
